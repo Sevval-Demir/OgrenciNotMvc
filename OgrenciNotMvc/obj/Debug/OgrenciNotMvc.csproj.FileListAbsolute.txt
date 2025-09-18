@@ -27,18 +27,6 @@ C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\roslyn\vbc.exe.config
 C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\roslyn\vbc.rsp
 C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\roslyn\VBCSCompiler.exe
 C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\Antlr3.Runtime.dll
-C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\Newtonsoft.Json.dll
-C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Helpers.dll
-C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Mvc.dll
-C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Optimization.dll
-C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Razor.dll
-C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.WebPages.Deployment.dll
-C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.WebPages.dll
-C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.WebPages.Razor.dll
-C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\WebGrease.dll
 C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Helpers.xml
 C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Mvc.xml
 C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\System.Web.Optimization.xml
@@ -59,7 +47,5 @@ C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\roslyn\System.Buffers.dll
 C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\roslyn\System.Memory.dll
 C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\roslyn\System.Numerics.Vectors.dll
 C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\EntityFramework.dll
-C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\EntityFramework.SqlServer.dll
 C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\EntityFramework.xml
 C:\Users\sevva\C#\OgrenciNotMvc\OgrenciNotMvc\bin\EntityFramework.SqlServer.xml

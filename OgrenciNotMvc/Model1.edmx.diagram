@@ -4,7 +4,7 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="4d690137ef754b77b5ce2598befaffa1" Name="Diagram1" ZoomLevel="65">
+      <Diagram DiagramId="4d690137ef754b77b5ce2598befaffa1" Name="Diagram1">
         <EntityTypeShape EntityType="DbMvcOkulModel.TBLDERSLER" Width="1.5" PointX="3" PointY="5.75" IsExpanded="true" />
         <EntityTypeShape EntityType="DbMvcOkulModel.TBLKULUPLER" Width="1.5" PointX="0.75" PointY="1.625" IsExpanded="true" />
         <EntityTypeShape EntityType="DbMvcOkulModel.TBLNOTLAR" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
@@ -12,7 +12,6 @@
         <AssociationConnector Association="DbMvcOkulModel.FK_TBLNOTLAR_TBLDERSLER" ManuallyRouted="false" />
         <AssociationConnector Association="DbMvcOkulModel.FK_TBLOGRENCILER_TBLKULUPLER" ManuallyRouted="false" />
         <AssociationConnector Association="DbMvcOkulModel.FK_TBLNOTLAR_TBLOGRENCILER" ManuallyRouted="false" />
-        <EntityTypeShape EntityType="DbMvcOkulModel.sysdiagrams" Width="1.5" PointX="5.375" PointY="5.75" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

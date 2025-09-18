@@ -16,5 +16,17 @@ namespace OgrenciNotMvc.Controllers
             var kulupler = db.TBLKULUPLER.ToList();
             return View(kulupler);
         }
+        [HttpGet]
+        public ActionResult YeniKulup()
+        {
+            return View();
+        }
+        [HttpPost]
+        public ActionResult YeniKulup(TBLKULUPLER k)
+        {
+            db.TBLKULUPLER.Add(k);
+            db.SaveChanges();
+            return View();
+        }
     }
 }

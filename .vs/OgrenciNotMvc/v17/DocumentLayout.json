@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\sevva\\C#\\OgrenciNotMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FBC3AD3-E5B4-4788-B49B-D39071CE4A35}|OgrenciNotMvc\\OgrenciNotMvc.csproj|c:\\users\\sevva\\c#\\ogrencinotmvc\\ogrencinotmvc\\views\\not\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6FBC3AD3-E5B4-4788-B49B-D39071CE4A35}|OgrenciNotMvc\\OgrenciNotMvc.csproj|solutionrelative:ogrencinotmvc\\views\\not\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6FBC3AD3-E5B4-4788-B49B-D39071CE4A35}|OgrenciNotMvc\\OgrenciNotMvc.csproj|c:\\users\\sevva\\c#\\ogrencinotmvc\\ogrencinotmvc\\views\\ogrenci\\yeniogrenci.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FBC3AD3-E5B4-4788-B49B-D39071CE4A35}|OgrenciNotMvc\\OgrenciNotMvc.csproj|solutionrelative:ogrencinotmvc\\views\\ogrenci\\yeniogrenci.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FBC3AD3-E5B4-4788-B49B-D39071CE4A35}|OgrenciNotMvc\\OgrenciNotMvc.csproj|c:\\users\\sevva\\c#\\ogrencinotmvc\\ogrencinotmvc\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6FBC3AD3-E5B4-4788-B49B-D39071CE4A35}|OgrenciNotMvc\\OgrenciNotMvc.csproj|solutionrelative:ogrencinotmvc\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FBC3AD3-E5B4-4788-B49B-D39071CE4A35}|OgrenciNotMvc\\OgrenciNotMvc.csproj|c:\\users\\sevva\\c#\\ogrencinotmvc\\ogrencinotmvc\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6FBC3AD3-E5B4-4788-B49B-D39071CE4A35}|OgrenciNotMvc\\OgrenciNotMvc.csproj|C:\\Users\\sevva\\C#\\OgrenciNotMvc\\ogrencinotmvc\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FBC3AD3-E5B4-4788-B49B-D39071CE4A35}|OgrenciNotMvc\\OgrenciNotMvc.csproj|solutionrelative:ogrencinotmvc\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FBC3AD3-E5B4-4788-B49B-D39071CE4A35}|OgrenciNotMvc\\OgrenciNotMvc.csproj|c:\\users\\sevva\\c#\\ogrencinotmvc\\ogrencinotmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6FBC3AD3-E5B4-4788-B49B-D39071CE4A35}|OgrenciNotMvc\\OgrenciNotMvc.csproj|solutionrelative:ogrencinotmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FBC3AD3-E5B4-4788-B49B-D39071CE4A35}|OgrenciNotMvc\\OgrenciNotMvc.csproj|c:\\users\\sevva\\c#\\ogrencinotmvc\\ogrencinotmvc\\controllers\\notcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FBC3AD3-E5B4-4788-B49B-D39071CE4A35}|OgrenciNotMvc\\OgrenciNotMvc.csproj|solutionrelative:ogrencinotmvc\\controllers\\notcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FBC3AD3-E5B4-4788-B49B-D39071CE4A35}|OgrenciNotMvc\\OgrenciNotMvc.csproj|c:\\users\\sevva\\c#\\ogrencinotmvc\\ogrencinotmvc\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6FBC3AD3-E5B4-4788-B49B-D39071CE4A35}|OgrenciNotMvc\\OgrenciNotMvc.csproj|solutionrelative:ogrencinotmvc\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FBC3AD3-E5B4-4788-B49B-D39071CE4A35}|OgrenciNotMvc\\OgrenciNotMvc.csproj|c:\\users\\sevva\\c#\\ogrencinotmvc\\ogrencinotmvc\\views\\kulupler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6FBC3AD3-E5B4-4788-B49B-D39071CE4A35}|OgrenciNotMvc\\OgrenciNotMvc.csproj|solutionrelative:ogrencinotmvc\\views\\kulupler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,95 +33,33 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\sevva\\C#\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\Not\\Index.cshtml",
-              "RelativeDocumentMoniker": "OgrenciNotMvc\\Views\\Not\\Index.cshtml",
-              "ToolTip": "C:\\Users\\sevva\\C#\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\Not\\Index.cshtml",
-              "RelativeToolTip": "OgrenciNotMvc\\Views\\Not\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBIAAAAaAAAAAAAAAA==",
+              "Title": "YeniOgrenci.cshtml",
+              "DocumentMoniker": "C:\\Users\\sevva\\C#\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\Ogrenci\\YeniOgrenci.cshtml",
+              "RelativeDocumentMoniker": "OgrenciNotMvc\\Views\\Ogrenci\\YeniOgrenci.cshtml",
+              "ToolTip": "C:\\Users\\sevva\\C#\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\Ogrenci\\YeniOgrenci.cshtml",
+              "RelativeToolTip": "OgrenciNotMvc\\Views\\Ogrenci\\YeniOgrenci.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-10T17:52:27.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NotController.cs",
-              "DocumentMoniker": "C:\\Users\\sevva\\C#\\OgrenciNotMvc\\OgrenciNotMvc\\Controllers\\NotController.cs",
-              "RelativeDocumentMoniker": "OgrenciNotMvc\\Controllers\\NotController.cs",
-              "ToolTip": "C:\\Users\\sevva\\C#\\OgrenciNotMvc\\OgrenciNotMvc\\Controllers\\NotController.cs",
-              "RelativeToolTip": "OgrenciNotMvc\\Controllers\\NotController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T17:50:41.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\sevva\\C#\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\Ogrenci\\Index.cshtml",
-              "RelativeDocumentMoniker": "OgrenciNotMvc\\Views\\Ogrenci\\Index.cshtml",
-              "ToolTip": "C:\\Users\\sevva\\C#\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\Ogrenci\\Index.cshtml",
-              "RelativeToolTip": "OgrenciNotMvc\\Views\\Ogrenci\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-10T17:44:54.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OgrenciController.cs",
-              "DocumentMoniker": "C:\\Users\\sevva\\C#\\OgrenciNotMvc\\OgrenciNotMvc\\Controllers\\OgrenciController.cs",
-              "RelativeDocumentMoniker": "OgrenciNotMvc\\Controllers\\OgrenciController.cs",
-              "ToolTip": "C:\\Users\\sevva\\C#\\OgrenciNotMvc\\OgrenciNotMvc\\Controllers\\OgrenciController.cs",
-              "RelativeToolTip": "OgrenciNotMvc\\Controllers\\OgrenciController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T17:43:33.047Z",
+              "WhenOpened": "2025-09-13T13:06:13.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\sevva\\C#\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\Default\\Index.cshtml",
-              "RelativeDocumentMoniker": "OgrenciNotMvc\\Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\sevva\\C#\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\Default\\Index.cshtml",
-              "RelativeToolTip": "OgrenciNotMvc\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-10T17:41:33.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\sevva\\C#\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\Kulupler\\Index.cshtml",
-              "RelativeDocumentMoniker": "OgrenciNotMvc\\Views\\Kulupler\\Index.cshtml",
-              "ToolTip": "C:\\Users\\sevva\\C#\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\Kulupler\\Index.cshtml",
-              "RelativeToolTip": "OgrenciNotMvc\\Views\\Kulupler\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-10T17:31:35.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\sevva\\C#\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "OgrenciNotMvc\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\sevva\\C#\\OgrenciNotMvc\\OgrenciNotMvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "OgrenciNotMvc\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-10T16:29:08.317Z",
-              "EditorCaption": ""
+              "Title": "OgrenciController.cs",
+              "DocumentMoniker": "C:\\Users\\sevva\\C#\\OgrenciNotMvc\\OgrenciNotMvc\\Controllers\\OgrenciController.cs",
+              "RelativeDocumentMoniker": "OgrenciNotMvc\\Controllers\\OgrenciController.cs",
+              "ToolTip": "C:\\Users\\sevva\\C#\\OgrenciNotMvc\\OgrenciNotMvc\\Controllers\\OgrenciController.cs",
+              "RelativeToolTip": "OgrenciNotMvc\\Controllers\\OgrenciController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA2wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:43:33.047Z"
             }
           ]
         }
